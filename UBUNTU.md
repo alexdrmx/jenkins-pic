@@ -10,7 +10,7 @@
    sudo apt-get -y install python3-dev libxml2-dev libxslt-dev libffi-dev # need for installing docker-compose
    htop  # check your vm config
    Crtl-c  # exit 
-``` 
+```  
 ### install this repo and docker    
 ```shell script
 git clone   https://github.com/<your_personnal_repo>/jenkins-pic.git
